@@ -9,4 +9,4 @@ With a price range in mind, I chose to work with electric skateboards in the ran
 3. Battery (Wh/V/)
 4. Motor Power (
 5. Trucks Length/Width
-theme: Cayman
+theme: minima
