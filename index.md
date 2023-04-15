@@ -3,7 +3,7 @@ Hello! My name is Andrew Villapudua, a second year student at UC San Diego. I am
 # Overview
 Over the course of a few months, I plan on forming, developing, and executing a plan to build a functioning electric skateboard. This project aims to challenge my researching skills, problem-solving ability, and hardware knowledge I have developed over the past few years in school, as well as expanding my current knowledge of batteries, motors, structural integrity, etc.
 # Research
-With a price range in mind, I chose to work with electric skateboards in the range of 400-600 dollars, as I assumed it would be less expsensive to assemble a board on my own from scratch. I came up with the following areas to collect data from these boards:
+With a price range in mind, I chose to work with electric skateboards in the range of 400-600 dollars, as I assumed it would be less expsensive to assemble a board on my own with the raw materials. I came up with the following areas to collect data from these boards:
 1. Deck Material
 2. Deck Size
 3. Battery
